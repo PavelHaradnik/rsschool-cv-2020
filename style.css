@@ -1,0 +1,120 @@
+body {
+    margin:0;
+    padding:0;
+    font-family:'Arial', serif;
+    box-sizing: borderbox;
+}
+
+main {
+    padding: 35px;
+    border: radius 10%;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    color: #e4f5f5;
+    background-color: #597da3;
+    text-align: left;
+}
+
+a {
+    color: #e4f5f5;
+}
+
+li {
+    padding: 10px;
+}
+
+.title_name {
+    border-bottom: outset;
+    border-color: #e4f5f5;
+}
+
+
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #e6e5f0;
+}
+
+.photo img {
+    padding: 30px;
+    border-radius: 150px;
+}
+
+.profile_contacts h1 {
+    margin: 10px
+}
+
+.title_sum {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: outset;
+    border-color: #597da3;
+}
+
+.title_skills {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: outset;
+    border-color: #597da3;
+}
+
+.title_exp {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: outset;
+    border-color: #597da3;
+}
+
+.title_education {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: outset;
+    border-color: #597da3;
+}
+
+.title_en {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: outset;
+    border-color: #597da3;
+}
+
+.info_sum {
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info_skills {
+    padding: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.info_exp {
+    padding: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.info_education {
+    padding: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.info_en {
+    padding: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+footer {
+    color: #e4f5f5;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 500px;
+    font-family: 'TimesNewRoman';
+    text-align: right;
+    background-color: #597da3;
+
+}
